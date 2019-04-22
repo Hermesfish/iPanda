@@ -1,2 +1,3 @@
 # panda
-A collection of images on the internet to learn the zen of life.
+![panda](logo/panda.svg)
+这是一个用来收集网络上给人以启迪的图像项目。
