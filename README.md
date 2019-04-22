@@ -1,6 +1,6 @@
 <img src="logo/panda.png" align="right" height="110"/>
 
-# Panda
+# iPanda
 
 这是一个用来收集网络上给人以启迪的图像项目。
 
@@ -14,4 +14,3 @@
 
 * [不想返工兽the panda does not want to work](/the_work_panda_story)
 * [我虎车死me tiger car die](/the_cat_open_the_car)
-*
