@@ -12,6 +12,6 @@
 
 ## 你可以在这个项目中看到
 
-* [不想返工兽](/the work panda story)
+* [不想返工兽](/the_work_panda_story)
 -
 -
