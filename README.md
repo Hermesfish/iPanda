@@ -1,4 +1,4 @@
-<img src="logo/panda.png" align="right" height="110"/>
+<img src="icon/panda.png" align="right" height="110"/>
 
 # panda
 
