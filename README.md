@@ -1,4 +1,4 @@
-<img src="icon/panda.png" align="right" height="110"/>
+<img src="logo/panda.png" align="right" height="110"/>
 
 # Panda
 
@@ -6,7 +6,7 @@
 
 ## Example
 
-![famous map](main.png)
+![famous map](main_page.png)
 
 这是一张十分著名的拿破仑行军图，在一张图里面记载了六种数据：拿破仑军队的人数、行军距离、温度、经纬度、移动方向、以及时间－地域关系。
 
