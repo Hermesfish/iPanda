@@ -14,3 +14,4 @@
 
 * [不想返工兽the panda does not want to work](/the_work_panda_story)
 * [我虎车死me tiger car die](/the_cat_open_the_car)
+* [平衡之笼balanced cage](/balanced_cage)
