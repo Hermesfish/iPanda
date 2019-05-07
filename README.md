@@ -17,3 +17,4 @@
 * [平衡之笼balanced cage](/balanced_cage)
 * [茶馆Chaguan](/Chaguan)
 * [大棋党big chess party](/big_chess_party)
+* [当网球打3折出售时when tennis balls are 70% off](/when_tennis_balls_are_70%_off)
