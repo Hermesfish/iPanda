@@ -7,3 +7,7 @@
 **卡通版本**
 
 ![](/the_work_panda_story/cartoon_work_panda.jpg)
+
+**再加一张**
+
+![](/the_work_panda_story/grey_cartoon_work_panda.jpg)
