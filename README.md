@@ -16,17 +16,50 @@
 
 [不想返工兽the panda does not want to work](/the_work_panda_story)
 
+![](/the_work_panda_story/work_panda.jpg)
+
 </details>
 
 <b><details><summary>我虎车死</summary></b>
 
 [我虎车死me tiger car die](/the_cat_open_the_car)
 
+![the_cat_open_the_car](/the_cat_open_the_car/cat_or_tiger.jpg)
+
 </details>
 
 <b><details><summary>平衡之笼</summary></b>
-
+  
 [平衡之笼balanced cage](/balanced_cage)
+
+```txt
+                                                      ___
+                                                     / | \
+                                                    /  |  \
+                                                   /   |   \
+                                                  /____|____\
+                                                  \    |    /
+                                                   \   |   /
+                                                    \  |  /
+                                                     \ | /
+                                       |_______|_______|_______|_______|
+                                       |\      |      /|\      |      /|
+                                       |  \    |    /  |  \    |    /  |
+                                       |    \  |  /    |    \  |  /    |
+                                       |______\|/______|______\|/______|
+                                       |      /|\      |      /|\      |
+                                       |    /  |  \    |    /  |  \    |
+                                       |  /    |    \  |  /    |    \  |
+                                       |/______|______\|/______|______\|
+                                       |\      |      /|\      |      /|
+                                       |  \    |    /  |  \    |    /  |
+                                       |    \  |  /    |    \  |  /    |
+                                       |______\|/______|______\|/______|
+                                       |      /|\      |      /|\      |
+                                       |    /  |  \    |    /  |  \    | 
+                                       |  /    |    \  |  /    |    \  |
+                                       |/______|______\|/______|______\|                                  
+```
 
 </details>
 
@@ -34,16 +67,22 @@
 
 [茶馆Chaguan](/Chaguan)
 
+<img src="/Chaguan/Chaguan.jpg" height="600">
+
 </details>
 
 <b><details><summary>大棋党</summary></b>
 
 [大棋党big chess party](/big_chess_party)
 
+![](/big_chess_party/big_chess_party.jpg)
+
 </details>
 
 <b><details><summary>当网球三折售出时</summary></b>
 
 [当网球3折售出时when tennis balls are 70% off](/when_tennis_balls_are_seventy_percent_off)
+
+![](/when_tennis_balls_are_seventy_percent_off/image.jpg)
 
 </details>
