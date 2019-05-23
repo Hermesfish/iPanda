@@ -12,9 +12,26 @@
 
 ## You can see
 
-* [不想返工兽the panda does not want to work](/the_work_panda_story)
-* [我虎车死me tiger car die](/the_cat_open_the_car)
-* [平衡之笼balanced cage](/balanced_cage)
-* [茶馆Chaguan](/Chaguan)
-* [大棋党big chess party](/big_chess_party)
-* [当网球打3折出售时when tennis balls are 70% off](/when_tennis_balls_are_seventy_percent_off)
+<details><summary>不想返工兽</summary>
+[不想返工兽the panda does not want to work](/the_work_panda_story)
+</details>
+
+<details><summary>我虎车死</summary>
+[我虎车死me tiger car die](/the_cat_open_the_car)
+</details>
+
+<details><summary>平衡之笼</summary>
+[平衡之笼balanced cage](/balanced_cage)
+</details>
+
+<details><summary>茶馆</summary>
+[茶馆Chaguan](/Chaguan)
+</details>
+
+<details><summary>大棋党</summary>
+[大棋党big chess party](/big_chess_party)
+</details>
+
+<details><summary>当网球三折售出时</summary>
+[当网球3折售出时when tennis balls are 70% off](/when_tennis_balls_are_seventy_percent_off)
+</details>
